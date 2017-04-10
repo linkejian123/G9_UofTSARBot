@@ -30,7 +30,7 @@ This repository is organized as follows:
   - `src/Accelerometer`: contains the Accelerometer IP block
   - `src/Image_Processing`: contains the Image Processing IP block
   - `src/Robot_Controller`: contains the Robot Controller IP block (controls the behavior of wheels of the robot)
-  - `src/Temperature_Sensor`: contains the Temperature Sensor IP block
+  - `src/Temp_Sensor`: contains the Temperature Sensor IP block
   - `src/XADC`: contains the XADC IP block (measure the angular acceleration and also the distance of obstacles at front)
   
 ### Authors

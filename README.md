@@ -47,3 +47,6 @@ Specifically, we made use of the following source files in our project
 
   - https://reference.digilentinc.com/learn/programmable-logic/tutorials/nexys-4-ddr-xadc-demo/start
   - https://reference.digilentinc.com/learn/programmable-logic/tutorials/nexys-4-ddr-user-demo/start
+
+We would also like to thank teaching assistant Charles Lo for sharing an example project on PMOD camera: http://www.piazza.com/class_profile/get_resource/ixov7014v1f23d/iyz3c568nc44xz
+

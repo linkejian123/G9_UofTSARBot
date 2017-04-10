@@ -1,0 +1,4 @@
+*.hw/
+*.sim/
+*.cache/
+*ip_user_files/

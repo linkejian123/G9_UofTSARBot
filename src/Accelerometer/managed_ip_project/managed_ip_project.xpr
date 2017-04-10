@@ -6,7 +6,7 @@
 <Project Version="7" Minor="14" Path="E:/G9_UofTSARBot/src/Accelerometer/managed_ip_project/managed_ip_project.xpr">
   <DefaultLaunch Dir="$PRUNDIR"/>
   <Configuration>
-    <Option Name="Id" Val="300db26ddb8648158c20cb9fcbb096f1"/>
+    <Option Name="Id" Val="29d9d07cc4d54a478c8ce4c4439bd4ec"/>
     <Option Name="Part" Val="xc7a100tcsg324-1"/>
     <Option Name="CompiledLibDir" Val="$PCACHEDIR/compile_simlib"/>
     <Option Name="CompiledLibDirXSim" Val=""/>
@@ -21,7 +21,7 @@
     <Option Name="ActiveSimSet" Val="sim_1"/>
     <Option Name="DefaultLib" Val="xil_defaultlib"/>
     <Option Name="ManageIP" Val="TRUE"/>
-    <Option Name="IPRepoPath" Val="$PPRDIR/../ip/Accelerometer_1.0"/>
+    <Option Name="IPRepoPath" Val="$PPRDIR/../ip_repo/Accelerometer_1.0"/>
     <Option Name="EnableCoreContainer" Val="FALSE"/>
     <Option Name="CreateRefXciForCoreContainers" Val="FALSE"/>
     <Option Name="IPUserFilesDir" Val="$PPRDIR/../ip_user_files"/>

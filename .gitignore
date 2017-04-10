@@ -1,4 +1,6 @@
+.Xil/
 *.hw/
 *.sim/
+*.runs/
 *.cache/
 *ip_user_files/
